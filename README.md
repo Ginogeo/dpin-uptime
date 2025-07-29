@@ -1,6 +1,6 @@
 # dpin-uptime
 
-Welcome to **dpin-uptime** – your first Web3 project! 🚀
+Welcome to **dpin-uptime** – my first Web3 project! 🚀
 
 ## Overview
 
