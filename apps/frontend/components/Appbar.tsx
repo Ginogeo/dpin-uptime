@@ -19,6 +19,13 @@ export function Appbar() {
       <nav className="flex space-x-4 items-center ">
         
         <SignedIn>
+          <Button 
+            variant="ghost" 
+            className="text-white "
+            onClick={() => router.push('/dashboard')}
+          >
+            Dashboard
+          </Button>
           <UserButton />
           
         </SignedIn>
