@@ -20,7 +20,7 @@ Bun.serve({
     port: 8081,
     websocket: {
         async message(ws: ServerWebSocket<unknown>, message: string) {
-            const data: IncomingMessage = JSON.parse(message);
+        const data: IncomingMessage = JSON.parse(message);
             
             if (data.type === 'signup') {
 

@@ -4,7 +4,7 @@ Welcome to **dpin-uptime** – my first Web3 project! 🚀
 
 ## Overview
 
-**dpin-uptime** is a cutting-edge uptime monitoring solution designed to leverage the decentralized power of Web3 technologies. This project is built using TypeScript, JavaScript, and CSS, with a core focus on providing reliable and transparent uptime status reporting for distributed services.
+**dpin-uptime** is a cutting-edge uptime monitoring solution designed to leverage the decentralized power of Web3 technologies.It monitors uptime using the help of validators across the world to provide regional and accurate uptiimes of a website. This project is built using TypeScript, JavaScript, and CSS, with a core focus on providing reliable and transparent uptime status reporting for distributed services.
 
 ## Features
 
