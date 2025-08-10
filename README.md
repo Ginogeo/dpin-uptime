@@ -70,6 +70,7 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 ```
 
 
+<img width="1919" height="977" alt="Screenshot 2025-08-10 204219" src="https://github.com/user-attachments/assets/14fd6df7-f56c-429d-a9fd-88378fc80a96" />
 
 
 
